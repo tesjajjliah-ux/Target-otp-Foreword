@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: telegram-otp-bot
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: SESSION_STRING
+        value: 1BVtsOJoBuxUj8iRKbrLnJuvqxHKt1vSpWKpvmvdTI948iPJfcdvan3UZvXA3ScbFjmv9my3UisLkkNAfmL6iSOhPYN94Wqs9O3SosOPGon_wbUkx3hn-zAPRcC6XNIa4vEXU6PzZlVAtbL3n9HOIkkGI5cip3Is9gNokDjreX0pJ97slHGInpi3F4AjESrEy2XYj6WYwj2_LwbCDu7WL5Umw2AAMLdVhCKV0AjDyLzAOpYrbyK4_4quzZruz3iE7U_9zs6lNha2RfWr3W_5STeVorhrBpu_9syGNnPupg9s6McV5pLOmPvIwuzA74BoU40-3Swz5IG04B9EqkHqW9NHl6nylIBU=
+      - key: API_ID
+        value: "26120136"
+      - key: API_HASH
+        value: "a41579e48158b4c4636fa1e483a26c46"
+      - key: OTP_SOURCE_CHAT
+        value: "-1002881339479"
+      - key: OTP_TARGET_CHAT
+        value: "-1002592991902"
+      - key: FILE_SOURCE_CHAT
+        value: "-1002881339479"
+      - key: FILE_TARGET_CHAT
+        value: "-1002592991902"
+      - key: YOUR_GROUP_LINK
+        value: "https://t.me/channel00953"
+      - key: YOUR_CHANNEL_LINK
+        value: "https://t.me/FreeNumberBd"
