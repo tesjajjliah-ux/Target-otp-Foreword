@@ -1,0 +1,146 @@
+{
+    "sudan": {
+        "flag": "🇸🇩",
+        "dial_code": "+249"
+    },
+    "venezuela": {
+        "flag": "🇻🇪",
+        "dial_code": "+58"
+    },
+    "nepal": {
+        "flag": "🇳🇵",
+        "dial_code": "+977"
+    },
+    "madagascar": {
+        "flag": "🇲🇬",
+        "dial_code": "+261"
+    },
+    "bangladesh": {
+        "flag": "🇧🇩",
+        "dial_code": "+880"
+    },
+    "india": {
+        "flag": "🇮🇳",
+        "dial_code": "+91"
+    },
+    "pakistan": {
+        "flag": "🇵🇰",
+        "dial_code": "+92"
+    },
+    "burundi": {
+        "flag": "🇧🇮",
+        "dial_code": "+257"
+    },
+    "brazil": {
+        "flag": "🇧🇷",
+        "dial_code": "+55"
+    },
+    "indonesia": {
+        "flag": "🇮🇩",
+        "dial_code": "+62"
+    },
+    "egypt": {
+        "flag": "🇪🇬",
+        "dial_code": "+20"
+    },
+    "turkey": {
+        "flag": "🇹🇷",
+        "dial_code": "+90"
+    },
+    "united states": {
+        "flag": "🇺🇸",
+        "dial_code": "+1"
+    },
+    "uk": {
+        "flag": "🇬🇧",
+        "dial_code": "+44"
+    },
+    "nigeria": {
+        "flag": "🇳🇬",
+        "dial_code": "+234"
+    },
+    "philippines": {
+        "flag": "🇵🇭",
+        "dial_code": "+63"
+    },
+    "thailand": {
+        "flag": "🇹🇭",
+        "dial_code": "+66"
+    },
+    "vietnam": {
+        "flag": "🇻🇳",
+        "dial_code": "+84"
+    },
+    "russia": {
+        "flag": "🇷🇺",
+        "dial_code": "+7"
+    },
+    "china": {
+        "flag": "🇨🇳",
+        "dial_code": "+86"
+    },
+    "japan": {
+        "flag": "🇯🇵",
+        "dial_code": "+81"
+    },
+    "korea": {
+        "flag": "🇰🇷",
+        "dial_code": "+82"
+    },
+    "germany": {
+        "flag": "🇩🇪",
+        "dial_code": "+49"
+    },
+    "france": {
+        "flag": "🇫🇷",
+        "dial_code": "+33"
+    },
+    "canada": {
+        "flag": "🇨🇦",
+        "dial_code": "+1"
+    },
+    "australia": {
+        "flag": "🇦🇺",
+        "dial_code": "+61"
+    },
+    "spain": {
+        "flag": "🇪🇸",
+        "dial_code": "+34"
+    },
+    "mexico": {
+        "flag": "🇲🇽",
+        "dial_code": "+52"
+    },
+    "argentina": {
+        "flag": "🇦🇷",
+        "dial_code": "+54"
+    },
+    "colombia": {
+        "flag": "🇨🇴",
+        "dial_code": "+57"
+    },
+    "peru": {
+        "flag": "🇵🇪",
+        "dial_code": "+51"
+    },
+    "chile": {
+        "flag": "🇨🇱",
+        "dial_code": "+56"
+    },
+    "ecuador": {
+        "flag": "🇪🇨",
+        "dial_code": "+593"
+    },
+    "bolivia": {
+        "flag": "🇧🇴",
+        "dial_code": "+591"
+    },
+    "paraguay": {
+        "flag": "🇵🇾",
+        "dial_code": "+595"
+    },
+    "uruguay": {
+        "flag": "🇺🇾",
+        "dial_code": "+598"
+    }
+}
